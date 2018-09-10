@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DarkSidemount</title>
+    <link>https://avances123.github.io/darksidemount/tags/</link>
+    <description>Recent content in Tags on DarkSidemount</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 avances123</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://avances123.github.io/darksidemount/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>https://avances123.github.io/darksidemount/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://avances123.github.io/darksidemount/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuevas</title>
+      <link>https://avances123.github.io/darksidemount/tags/cuevas/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://avances123.github.io/darksidemount/tags/cuevas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tecnico</title>
+      <link>https://avances123.github.io/darksidemount/tags/tecnico/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://avances123.github.io/darksidemount/tags/tecnico/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
