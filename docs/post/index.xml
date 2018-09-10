@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on DarkSidemount</title>
-    <link>https://avances123.github.io/darksidemount/post/</link>
+    <link>http://darksidemount.fabio.xyz/post/</link>
     <description>Recent content in Posts on DarkSidemount</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 avances123</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://avances123.github.io/darksidemount/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://darksidemount.fabio.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>https://avances123.github.io/darksidemount/post/arneses/</link>
+      <link>http://darksidemount.fabio.xyz/post/arneses/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://avances123.github.io/darksidemount/post/arneses/</guid>
+      <guid>http://darksidemount.fabio.xyz/post/arneses/</guid>
       <description>Academic is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. Check out the latest demo of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the Quick Start guide or take a look at the Release Notes.
 
 Key features:
@@ -26,10 +26,10 @@ Key features:
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>https://avances123.github.io/darksidemount/post/botellas/</link>
+      <link>http://darksidemount.fabio.xyz/post/botellas/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://avances123.github.io/darksidemount/post/botellas/</guid>
+      <guid>http://darksidemount.fabio.xyz/post/botellas/</guid>
       <description>Academic is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. Check out the latest demo of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the Quick Start guide or take a look at the Release Notes.
 
 Key features:
@@ -38,10 +38,10 @@ Key features:
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>https://avances123.github.io/darksidemount/post/getting-started/</link>
+      <link>http://darksidemount.fabio.xyz/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://avances123.github.io/darksidemount/post/getting-started/</guid>
+      <guid>http://darksidemount.fabio.xyz/post/getting-started/</guid>
       <description>Academic is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. Check out the latest demo of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the Quick Start guide or take a look at the Release Notes.
 
 Key features:
